@@ -6,10 +6,9 @@
 
 | Time        | Topic                                          |
 |-------------|------------------------------------------------|
-| **Day 0 (3/24)**   | Office hours for set up       |
-| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from flash drives](flashdrive-instructions.md), [Docker container set up](docker-load.md) |                              
-|             |                                                |
-| **Day 1 (3/25)**   |                                                |
+| **Day 0 (03/24)**   | Pre-workshop to set up your computer    |
+| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from flash drives](flashdrive-instructions.md), [Docker container set up](docker-load.md)|                              
+| **Day 1 (03/25)**   |                                                |
 | 9:00        | Welcome                                        |
 | 9:15        | [Introduction to R](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/01-intro_to_r.nb.html)                                |
 | 10:00       | [R Intermediate Topics (including Tidyverse)](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/02-intro_to_tidyverse.nb.html)      |
@@ -25,8 +24,7 @@
 | 5:15        | Exercise Introduction: [Machine Learning](https://github.com/AlexsLemonade/training-modules/blob/master/machine-learning/05-machine_learning_exercise.Rmd)                                            |
 | 5:30        | End                                           |
 | 6:00        | Dinner: <!--[Nomad Roman](http://www.nomadpizzaco.com/nomad-roman.html)  -->      |
-|             |                                                |
-| **Day 2 (3/26)**   |                                                |
+| **Day 2 (03/26)**   |                                                |
 | 9:00 AM     | Analyze your own data (or some stuff we have)! |
 | 12:30 PM    | Lunch                                          |
 | 2:00        | Presentations, interpretations, and discussion |
