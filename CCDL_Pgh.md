@@ -1,4 +1,4 @@
-## 2020 Pittsburgh CCDL Training @ Carnegie Mellon Univeristy 
+## 2020 Pittsburgh CCDL Training @ Carnegie Mellon Univeristy
 
 **Location**: Mellon Institute Library, 4th Floor Mellon Institute
 
@@ -6,10 +6,10 @@
 
 | Time        | Topic                                          |
 |-------------|------------------------------------------------|
-| **Day 0**   |                                                |
+| **Day 0 (3/24)**   | Office hours for set up       |
 | 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from flash drives](flashdrive-instructions.md), [Docker container set up](docker-load.md) |                              
 |             |                                                |
-| **Day 1**   |                                                |
+| **Day 1 (3/25)**   |                                                |
 | 9:00        | Welcome                                        |
 | 9:15        | [Introduction to R](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/01-intro_to_r.nb.html)                                |
 | 10:00       | [R Intermediate Topics (including Tidyverse)](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/02-intro_to_tidyverse.nb.html)      |
@@ -26,7 +26,7 @@
 | 5:30        | End                                           |
 | 6:00        | Dinner: <!--[Nomad Roman](http://www.nomadpizzaco.com/nomad-roman.html)  -->      |
 |             |                                                |
-| **Day 2**   |                                                |
+| **Day 2 (3/26)**   |                                                |
 | 9:00 AM     | Analyze your own data (or some stuff we have)! |
 | 12:30 PM    | Lunch                                          |
 | 2:00        | Presentations, interpretations, and discussion |
