@@ -1,6 +1,6 @@
 ## 2020 Pittsburgh CCDL Training @ Carnegie Mellon University ##
 
-Traning material developed by Childhood Cancer Data Lab \\
+Traning material developed by Childhood Cancer Data Lab <br/>
 Alex's Lemonade Stand Foundation [https://www.alexslemonade.org](https://www.alexslemonade.org)
 
 **Location**: Mellon Institute Library, 4th Floor Mellon Institute
