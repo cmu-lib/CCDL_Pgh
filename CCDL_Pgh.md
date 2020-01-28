@@ -1,5 +1,9 @@
 ## 2020 Pittsburgh CCDL Training @ Carnegie Mellon Univeristy
 
+### Traning material developed by Childhood Cancer Data Lab###
+###Alex's Lemonade Stand Foundation###
+[https://www.alexslemonade.org](https://www.alexslemonade.org)
+
 **Location**: Mellon Institute Library, 4th Floor Mellon Institute
 
 **Dates**: 03/24/2020 - 03/26/2020
@@ -7,7 +11,7 @@
 | Time        | Topic                                          |
 |-------------|------------------------------------------------|
 | **Day 0 (03/24)**   | Pre-workshop to set up your computer    |
-| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from flash drives](flashdrive-instructions.md), [Docker container set up](docker-load.md)|                              
+| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from flash drives](https://github.com/AlexsLemonade/RNA-Seq-Exercises/blob/master/flashdrive-instructions.md), [Docker container set up](https://github.com/AlexsLemonade/RNA-Seq-Exercises/blob/master/docker-load.md)|                              
 | **Day 1 (03/25)**   |                                                |
 | 9:00        | Welcome                                        |
 | 9:15        | [Introduction to R](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/01-intro_to_r.nb.html)                                |
@@ -23,7 +27,7 @@
 | 4:00        | Machine Learning: [Data Preparation](https://alexslemonade.github.io/training-modules/machine-learning/01-medulloblastoma_data_prep.nb.html), [Clustering](https://alexslemonade.github.io/training-modules/machine-learning/02-medulloblastoma_clustering.nb.html), [PLIER](https://alexslemonade.github.io/training-modules/machine-learning/03-medulloblastoma_PLIER.nb.html), [Differential PLIER LVs](https://alexslemonade.github.io/training-modules/machine-learning/04-medulloblastoma_LV_differences.nb.html)  
 | 5:15        | Exercise Introduction: [Machine Learning](https://github.com/AlexsLemonade/training-modules/blob/master/machine-learning/05-machine_learning_exercise.Rmd)                                            |
 | 5:30        | End                                           |
-| 6:00        | Dinner: <!--[Nomad Roman](http://www.nomadpizzaco.com/nomad-roman.html)  -->      |
+| 6:00        | Dinner: TBD    |
 | **Day 2 (03/26)**   |                                                |
 | 9:00 AM     | Analyze your own data (or some stuff we have)! |
 | 12:30 PM    | Lunch                                          |
