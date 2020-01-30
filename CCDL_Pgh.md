@@ -10,7 +10,7 @@ Alex's Lemonade Stand Foundation [https://www.alexslemonade.org](https://www.ale
 | Time        | Topic                                          |
 |-------------|------------------------------------------------|
 | **Day 0 (03/24)**   | Pre-workshop to set up your computer    |
-| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from flash drives](https://github.com/AlexsLemonade/RNA-Seq-Exercises/blob/master/flashdrive-instructions.md), [Docker container set up](https://github.com/AlexsLemonade/RNA-Seq-Exercises/blob/master/docker-load.md)|                              
+| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from Box](https://cmu.box.com/s/9p13oazxuthafjnejea7us74nc0nq75w), [Docker container set up](https://github.com/cmu-lib/CCDL-RNA-Seq-Exercises/blob/master/docker-load.md)|                              
 | **Day 1 (03/25)**   |                                                |
 | 9:00        | Welcome                                        |
 | 9:15        | [Introduction to R](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/01-intro_to_r.nb.html)                                |
