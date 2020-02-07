@@ -7,6 +7,8 @@ Alex's Lemonade Stand Foundation [https://www.alexslemonade.org](https://www.ale
 
 **Dates**: 03/24/2020 - 03/26/2020
 
+To apply: https://forms.gle/a4uHbSRDHrsx13dP7
+
 ### Tentative Schedule ###
 
 | Time        | Topic                                          |
