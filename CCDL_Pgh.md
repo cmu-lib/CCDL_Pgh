@@ -14,10 +14,10 @@ To apply: https://forms.gle/a4uHbSRDHrsx13dP7
 | Time        | Topic                                          |
 |-------------|------------------------------------------------|
 | **Day 0 (03/24)**   | Pre-workshop to set up your computer    |
-| 3 -5:00 PM     | Getting Started: [Install Docker](https://github.com/AlexsLemonade/training-modules/blob/master/docker-install/README.md), [Get files from Box](https://cmu.box.com/s/9p13oazxuthafjnejea7us74nc0nq75w), [Docker container set up](https://github.com/cmu-lib/CCDL-RNA-Seq-Exercises/blob/master/docker-load.md)|                              
+| 3 -5:00 PM     | Getting Started: [Install Docker](https://cmu-lib.github.io/training-modules/blob/master/docker-install/README.md), [Get files from Box](https://cmu.box.com/s/9p13oazxuthafjnejea7us74nc0nq75w), [Docker container set up](https://github.com/cmu-lib/CCDL-RNA-Seq-Exercises/blob/master/docker-load.md)|                              
 | **Day 1 (03/25)**   |                                                |
 | 9:00        | Welcome                                        |
-| 9:15        | [Introduction to R](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/01-intro_to_r.nb.html)                                |
+| 9:15        | [Introduction to R](https://cmu-lib.github.io/training-modules/intro-to-R-tidyverse/01-intro_to_r.nb.html)                                |
 | 10:00       | [R Intermediate Topics (including Tidyverse)](https://alexslemonade.github.io/training-modules/intro-to-R-tidyverse/02-intro_to_tidyverse.nb.html)      |
 | 10:45       | Exercises Introduction: [Intro to R](https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/03-intro_to_r_exercise.Rmd), [Intro to Tidyverse](https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/04-intro_to_tidyverse_exercise.Rmd)      |
 | 11:30 PM    | Bulk RNA-seq I: [QC, trim, and quantification with Salmon](https://github.com/AlexsLemonade/training-modules/blob/master/RNA-seq/01-qc_trim_quant.md)            |
